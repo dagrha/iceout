@@ -1,0 +1,2 @@
+# Iceout
+Scrape and store Minnesota lakes ice out data to a SQLite database. The [Minnesota DNR](https://www.dnr.state.mn.us/) provides historical data for the dates for various lakes that ice goes out (as well as freezes). At present on the MNDNR website it is not possible to view those data on a graph or compare lakes. So, this repository is an initial effort to make vizualization of the ice out (and ice in) data more flexible.
