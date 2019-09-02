@@ -10,6 +10,7 @@ import scrapy
 
 class IceoutItem(scrapy.Item):
     lake_id = scrapy.Field()
+    lake_name = scrapy.Field()
     iceout = scrapy.Field()
     source = scrapy.Field()
     comment = scrapy.Field()
